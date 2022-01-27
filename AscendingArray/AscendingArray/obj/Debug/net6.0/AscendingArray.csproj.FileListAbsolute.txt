@@ -1,0 +1,15 @@
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\AscendingArray.exe
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\AscendingArray.deps.json
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\AscendingArray.runtimeconfig.json
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\AscendingArray.dll
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\ref\AscendingArray.dll
+D:\TestProgram\AscendingArray\AscendingArray\bin\Debug\net6.0\AscendingArray.pdb
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.csproj.AssemblyReference.cache
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.AssemblyInfoInputs.cache
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.AssemblyInfo.cs
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.csproj.CoreCompileInputs.cache
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.dll
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\ref\AscendingArray.dll
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.pdb
+D:\TestProgram\AscendingArray\AscendingArray\obj\Debug\net6.0\AscendingArray.genruntimeconfig.cache
