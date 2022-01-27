@@ -1,0 +1,14 @@
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\MedianEle.exe
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\MedianEle.deps.json
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\MedianEle.runtimeconfig.json
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\MedianEle.dll
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\ref\MedianEle.dll
+D:\TestProgram\MedianEle\MedianEle\bin\Debug\net6.0\MedianEle.pdb
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.AssemblyInfoInputs.cache
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.AssemblyInfo.cs
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.csproj.CoreCompileInputs.cache
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.dll
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\ref\MedianEle.dll
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.pdb
+D:\TestProgram\MedianEle\MedianEle\obj\Debug\net6.0\MedianEle.genruntimeconfig.cache
