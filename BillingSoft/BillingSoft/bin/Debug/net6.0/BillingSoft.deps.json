@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BillingSoft/1.0.0": {
+        "runtime": {
+          "BillingSoft.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BillingSoft/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

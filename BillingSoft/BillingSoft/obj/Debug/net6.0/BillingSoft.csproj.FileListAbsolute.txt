@@ -1,0 +1,15 @@
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\BillingSoft.exe
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\BillingSoft.deps.json
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\BillingSoft.runtimeconfig.json
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\BillingSoft.dll
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\ref\BillingSoft.dll
+D:\TestProgram\BillingSoft\BillingSoft\bin\Debug\net6.0\BillingSoft.pdb
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.csproj.AssemblyReference.cache
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.AssemblyInfoInputs.cache
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.AssemblyInfo.cs
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.csproj.CoreCompileInputs.cache
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.dll
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\ref\BillingSoft.dll
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.pdb
+D:\TestProgram\BillingSoft\BillingSoft\obj\Debug\net6.0\BillingSoft.genruntimeconfig.cache
