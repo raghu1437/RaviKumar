@@ -1,0 +1,5 @@
+D:\TestProgram\InhertnaceAndPolymorphism\InhertnaceAndPolymorphism\obj\Debug\net5.0\InhertnaceAndPolymorphism.csproj.AssemblyReference.cache
+D:\TestProgram\InhertnaceAndPolymorphism\InhertnaceAndPolymorphism\obj\Debug\net5.0\InhertnaceAndPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\InhertnaceAndPolymorphism\InhertnaceAndPolymorphism\obj\Debug\net5.0\InhertnaceAndPolymorphism.AssemblyInfoInputs.cache
+D:\TestProgram\InhertnaceAndPolymorphism\InhertnaceAndPolymorphism\obj\Debug\net5.0\InhertnaceAndPolymorphism.AssemblyInfo.cs
+D:\TestProgram\InhertnaceAndPolymorphism\InhertnaceAndPolymorphism\obj\Debug\net5.0\InhertnaceAndPolymorphism.csproj.CoreCompileInputs.cache
