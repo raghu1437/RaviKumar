@@ -1,0 +1,15 @@
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\kthSmallestElement.exe
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\kthSmallestElement.deps.json
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\kthSmallestElement.runtimeconfig.json
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\kthSmallestElement.dll
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\ref\kthSmallestElement.dll
+D:\TestProgram\kthSmallestElement\kthSmallestElement\bin\Debug\net6.0\kthSmallestElement.pdb
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.AssemblyInfoInputs.cache
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.AssemblyInfo.cs
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.csproj.CoreCompileInputs.cache
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.dll
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\ref\kthSmallestElement.dll
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.pdb
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.genruntimeconfig.cache
+D:\TestProgram\kthSmallestElement\kthSmallestElement\obj\Debug\net6.0\kthSmallestElement.csproj.AssemblyReference.cache
