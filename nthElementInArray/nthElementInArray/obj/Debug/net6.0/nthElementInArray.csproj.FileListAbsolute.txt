@@ -1,0 +1,15 @@
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\nthElementInArray.exe
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\nthElementInArray.deps.json
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\nthElementInArray.runtimeconfig.json
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\nthElementInArray.dll
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\ref\nthElementInArray.dll
+D:\TestProgram\nthElementInArray\nthElementInArray\bin\Debug\net6.0\nthElementInArray.pdb
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.AssemblyInfoInputs.cache
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.AssemblyInfo.cs
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.csproj.CoreCompileInputs.cache
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.dll
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\ref\nthElementInArray.dll
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.pdb
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.genruntimeconfig.cache
+D:\TestProgram\nthElementInArray\nthElementInArray\obj\Debug\net6.0\nthElementInArray.csproj.AssemblyReference.cache
