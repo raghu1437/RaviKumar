@@ -1,0 +1,15 @@
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\DescendingArray.exe
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\DescendingArray.deps.json
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\DescendingArray.runtimeconfig.json
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\DescendingArray.dll
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\ref\DescendingArray.dll
+D:\TestProgram\DescendingArray\DescendingArray\bin\Debug\net6.0\DescendingArray.pdb
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.AssemblyInfoInputs.cache
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.AssemblyInfo.cs
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.csproj.CoreCompileInputs.cache
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.dll
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\ref\DescendingArray.dll
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.pdb
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.genruntimeconfig.cache
+D:\TestProgram\DescendingArray\DescendingArray\obj\Debug\net6.0\DescendingArray.csproj.AssemblyReference.cache
