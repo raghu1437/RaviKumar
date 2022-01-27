@@ -1,0 +1,15 @@
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\BankingConfig.exe
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\BankingConfig.deps.json
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\BankingConfig.runtimeconfig.json
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\BankingConfig.dll
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\ref\BankingConfig.dll
+D:\Sample_Programs\BankingConfig\bin\Debug\net6.0\BankingConfig.pdb
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.csproj.AssemblyReference.cache
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.AssemblyInfoInputs.cache
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.AssemblyInfo.cs
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.csproj.CoreCompileInputs.cache
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.dll
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\ref\BankingConfig.dll
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.pdb
+D:\Sample_Programs\BankingConfig\obj\Debug\net6.0\BankingConfig.genruntimeconfig.cache
