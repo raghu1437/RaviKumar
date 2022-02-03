@@ -1,0 +1,15 @@
+D:\DepositToAccount\bin\Debug\net6.0\DepositToAccount.exe
+D:\DepositToAccount\bin\Debug\net6.0\DepositToAccount.deps.json
+D:\DepositToAccount\bin\Debug\net6.0\DepositToAccount.runtimeconfig.json
+D:\DepositToAccount\bin\Debug\net6.0\DepositToAccount.dll
+D:\DepositToAccount\bin\Debug\net6.0\ref\DepositToAccount.dll
+D:\DepositToAccount\bin\Debug\net6.0\DepositToAccount.pdb
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.csproj.AssemblyReference.cache
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.AssemblyInfoInputs.cache
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.AssemblyInfo.cs
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.csproj.CoreCompileInputs.cache
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.dll
+D:\DepositToAccount\obj\Debug\net6.0\ref\DepositToAccount.dll
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.pdb
+D:\DepositToAccount\obj\Debug\net6.0\DepositToAccount.genruntimeconfig.cache
